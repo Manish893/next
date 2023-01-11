@@ -1,0 +1,148 @@
+.navbar-expand-lg
+{
+    padding: 10px 20px;
+    color: solid black;
+}
+.con
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.box
+{
+    text-align: center;
+    padding: 50px 50px;
+    gap: 20px;
+    border-radius: 22px;
+    box-sizing: border-box;
+    &:hover{
+        background-color: red;
+        color: #fff;
+    }
+}
+ button
+ {
+    text-align: left;
+    border:none;
+    
+    &:hover{
+        background:red;
+        color:whitesmoke;
+        text-decoration: underline;
+        border: none;
+    }
+ }
+
+
+    .photo1
+    {
+       position: relative;
+       color: white;
+       text-align: center;
+       padding-top: 20px 10px;
+       background-image: url(http://rainbowit.net/html/trydo/assets/images/bg/bg-image-17.jpg);
+       background-position: center;
+       background-size: cover;
+       
+    
+    }
+    .nn 
+    {
+        height: 400px;
+
+ 
+    }
+    h1{
+        
+        font-weight: bold;
+    }
+    .bb h1{
+        font-weight: bolder;
+        
+    }
+    .cc
+    {
+    
+        font-size: larger;
+    }
+    .ll
+    {
+        padding-left: 80px;
+        &:hover
+        {
+            background: red;
+            transform: scaleX(1.2);
+             border-radius: 5px;
+        
+        
+        }
+    }
+    .logo
+    {
+        height: 200px;
+    }
+    .footer
+    {
+        background-image:url(http://rainbowit.net/html/trydo/assets/images/pattern-1.png);
+    
+        height: 400px;
+        width: 100%;
+        background: red;
+        color: #ffffff;
+        padding-top: 6rem ;
+    }
+    .footer button {
+        box-sizing: border-box;
+        background: red;
+        border:2px solid white;
+        color:white;
+        margin-top: 6rem;
+        padding: 1rem 2rem;
+        font-size:28px;
+        h2{
+            text-decoration: none;
+            color: #fff;
+        }
+        a{
+            text-decoration: none;
+        }
+    
+    }
+    .black{
+        background: black;
+        color: white;
+        height: 150px;
+        
+        
+        i{
+            font-size: 2.5rem;
+            padding-left: 2.5rem;
+            gap: 10px;
+        }
+    }
+    .real{
+        position: relative;
+        button{
+            display: none;
+        }
+        
+     
+        .late{
+            bottom: 8%;
+            left: 3%;
+            color: white;
+            font-size: 1.5rem;
+             position: absolute;
+            
+        }
+      
+    }
+   
+   
+
+
+ 
+
+
+ 
